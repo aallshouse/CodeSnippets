@@ -1,0 +1,5 @@
+C:\SaveEverythingHere\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\SaveEverythingHere\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\SaveEverythingHere\Projects\TestProject\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\SaveEverythingHere\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\SaveEverythingHere\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
