@@ -8,9 +8,17 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:Program.cs" caret="194" fromTop="10" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:App.config" caret="222" fromTop="4" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:DbResult.cs" caret="240" fromTop="10" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:Program.cs" caret="1041" fromTop="20" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:App.config" caret="110" fromTop="3" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:DbResult.cs" caret="286" fromTop="11" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:Program.cs" caret="626" fromTop="18" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:Program.cs" caret="438" fromTop="15" />
+      <File id="A347C685-8644-4C43-AC60-28513ADC9899/f:Program.cs" caret="1296" fromTop="25" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -23,4 +31,59 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="2" />
+      <Item value="new" priority="2" />
+      <Item value="SqlConnection" priority="0" />
+      <Item value="string" priority="5" />
+      <Item value="connString" priority="0" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="SqlCommand" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="conn" priority="3" />
+      <Item value="cmd" priority="3" />
+      <Item value="SqlDataReader`0" priority="0" />
+      <Item value="SqlDataReader" priority="0" />
+      <Item value="reader" priority="5" />
+      <Item value="if" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="int" priority="1" />
+      <Item value="DbResult`0" priority="0" />
+      <Item value="DbResult" priority="0" />
+      <Item value="result" priority="2" />
+      <Item value="tempInt" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteReader`0" priority="0" />
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Close`0" priority="0" />
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestProject.DbResult">
+      <Item value="TableID" priority="0" />
+      <Item value="SomeValue1" priority="0" />
+      <Item value="SomeValue2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
